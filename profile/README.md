@@ -3,8 +3,7 @@
 We're on a mission to improve the security maturity of the global supply chain ecosystem, reducing the number of data breaches experienced through supply chain attacks by companies and consumers alike.
 
 We're currently looking for;
-  - [Head of Engineering](https://riskledger.com/jobs?gh_jid=4257530101)
-  - [Lead Product Designer](https://riskledger.com/jobs?gh_jid=4305375101)
+  - [VP of Engineering](https://riskledger.com/jobs?gh_jid=4316213101)
   - [Lead Product Engineer](https://riskledger.com/jobs?gh_jid=4291142101)
   - [Lead Product Engineer (Backend)](https://riskledger.com/jobs?gh_jid=4291638101)
 
